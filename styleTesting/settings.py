@@ -25,7 +25,7 @@ SECRET_KEY = 'wm7m477&1c^frd#_1msnbk#^y5%9t7nxnc+$3vem%)qtcs3gld'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://testazured.azurewebsites.net', 'testazured.azurewebsites.net']
 
 
 # Application definition
